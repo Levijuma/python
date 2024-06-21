@@ -1,0 +1,6 @@
+nambari = int(input("Enter first number"))
+nambari2 = int(input("Enter second number"))
+print(f"The sum of {nambari} and {nambari2} is {nambari + nambari2}")
+nambari3 = int(input("Enter third number"))
+nambari4 = int(input("Enter fourth number"))
+print(f"The difference of {nambari3} and {nambari4} is {nambari3 - nambari4}")
